@@ -3,7 +3,7 @@
 .eryting{
 	max-width:960px;
 	margin:auto;
-	background-image:url("7yt9bjtA.jpg");
+	
 }
 
 .grid{
@@ -48,6 +48,7 @@ h1,h4{
 	align-items: center;
 	justify-content: center;
 	background-color:#0AB1AF;
+	width: 960px;
 	
 }
 .self{
@@ -67,6 +68,7 @@ h1,h4{
 .contact{
 	border-bottom: double;
 	border-bottom-color: black;
+	
 }
 	
 .Biography{
